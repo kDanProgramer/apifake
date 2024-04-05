@@ -137,7 +137,46 @@
           "id": "6",
           "pontuacao": 7
         }
+      ],
+
+      "idiomas": [
+        {
+          "nome": "Inglês",
+          "id": 1,
+          "nivel": "básico"
+        },
+        {
+          "nome": "espanhol",
+          "id": 2,
+          "nivel": "basico"
+        },
+        {
+          "nome": "Portugês",
+          "id": "3",
+          "nivel": "nativo"
+        }
+        
+      ],
+
+
+      "interesses": [
+        {
+          "nome": "video-game",
+          "id": 1
+          
+        },
+        {
+          "nome": "programar",
+          "id": 2
+        },
+        {
+          "nome": "Comer guloseimas",
+          "id": "3"
+        }
+        
       ]
+
+
     },
     {
       "id": "thiagoazevedo",
